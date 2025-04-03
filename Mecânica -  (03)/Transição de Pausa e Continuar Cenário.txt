@@ -1,0 +1,25 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Roteiro projeto 003 --------------------------------------------------------
+____________________________________________________________________________
+01. Adicionar o cenário de fundo
+02. Adicionar o cenário de overlap
+03. Setup da Imagem da Logomarca
+04. A lógica do cenário principal
+05. Adicionando o sensor 'tap'
+06. Adicionando a composição do cenário no script config.py
+07. A classe ConfigsJogo
+08. A maneira com que lido com cenários
+09. Porque é importante entender a API do Blender
+10. Ativar o modo de depuração do blender
+11. Verificar o desempenho do game
+12. pausar um cenário
+13. continuar um cenário 
+14. o cenário principal é independente
+15. aplicar filtro 2d no projeto
+16. remover filtro 2d no projeto
+17. ativando um actuador com código
+18. lendo entrada do teclado com código
+19. ler o teclado imediatamente quando pressionar o botão
+20. quando pression F2 o game pausa
+21. quando pressione F5 o game continua
+22. Review do Script com isso tudo do código
