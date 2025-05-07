@@ -1,6 +1,5 @@
 # UPBGE-From-NOOB-To-NASA
 Os Fundamentos da Engine de Jogos UPBGE por Josiel Soares
-Link do projeto para Download: https://github.com/Ten4z/UPBGE-FROM-NOOB-TO-NASA
 
 Olá Josiel o Ziga do Canal Ziga Multimedia no Youtube Sou o criador do Termo "UPBGE From NOOB To NASA", você está pronto para criar seu Novo Aplicativo Stand Alone um "Auto executável"?
 
