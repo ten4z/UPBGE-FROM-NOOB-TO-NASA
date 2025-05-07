@@ -1,6 +1,14 @@
-# UPBGE-NOOB-TO-NASA
+# UPBGE-From-NOOB-To-NASA
+Os Fundamentos da Engine de Jogos UPBGE por Josiel Soares
 
-Criado por Josiel o Ziga do Canal Ziga Multimedia no Youtube
+Olá Josiel o Ziga do Canal Ziga Multimedia no Youtube
+Sou o criador do Termo "UPBGE From NOOB To NASA", você está pronto
+para cria seu Novo Aplicativo Stand Alone um "Auto executável"?
+
+Também sou o criador do termo "Blender as IDE" Ou seja você
+pode usar o Blender e a engine BGE como seu Ambiente Integrado de
+Desenvolvimento para a produção de Jogos e Aplicativos.
+
 Temos aqui uma releitura dos Fundamentos da Engine de Games UPBGE
 Vamos discutir sobre tudo que eu puder sobre o meu domínio de
 técnicas, funções e procedimentos que perspassa por entre este
