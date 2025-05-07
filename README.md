@@ -4,6 +4,8 @@ Os Fundamentos da Engine de Jogos UPBGE por Josiel Soares
 Olá sou Josiel o Ziga do Canal Ziga Multimedia no Youtube:
 <a href="https://www.youtube.com/channel/UCK-W5xN2tzIuovZr3DNydgw?sub_confirmation=1">Canal Ziga Multimedia</a>
 
+Ou se você preferir analisar meu Feed no Youtube, veja está <a href="https://www.youtube.com/watch?v=TzlRUuM-nJs&list=PLlzVJnMiA06-BJ7HhnHO6IoFbtSB0JE_G">PLAYLIST</a> que estou preenchendo, em etapas, seja uma das primeiras pessoas a me acompanhar neste trabalho que estou desenvolvendo.
+
 Sou o criador do Termo "UPBGE From NOOB To NASA", você está pronto para criar seu Novo Aplicativo Stand Alone um "Auto executável"?
 
 Também sou o criador do termo "Blender as IDE" Ou seja você pode usar o Blender e a engine BGE como seu Ambiente Integrado de Desenvolvimento para a produção de Jogos e Aplicativos.
