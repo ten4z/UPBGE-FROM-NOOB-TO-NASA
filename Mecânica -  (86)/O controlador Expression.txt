@@ -1,0 +1,4 @@
+usar cálculos matemáticas
+usar lógica
+usar funções de matemática
+usar propriedades de depuração
