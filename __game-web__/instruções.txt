@@ -1,0 +1,17 @@
+
+
+inicialize este projeto 
+em um servidor web local ou hospedado
+
+opcional:
+navegue até a pasta do projeto
+com o terminal em seguida digite
+o seguinte comando:
+
+python -m http.server
+
+em seguida visite no navegador a pasta
+http://localhost:8000
+
+e divirta-se com este game web
+modelado inicialmente com a bge
