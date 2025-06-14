@@ -6,11 +6,26 @@ obj = scn.objects
 scl = bge.logic.getSceneList()
 
 tap = cont.sensors['tap']
+keyboard = bge.logic.keyboard
 
 class MyGame():
     def __init__(self):
         if tap.positive:
             print("Game iniciado.")
+
+    def controls(self):                             
+        if keyboard.inputs[bge.events.DKEY].active:
+             obj['axis'].applyRotation([-0.2,0,0], True)
+
+        if keyboard.inputs[bge.events.AKEY].active:
+             obj['axis'].applyRotation([0.2,0,0], True)
+
+        if keyboard.inputs[bge.events.SPACEKEY].active:
+             obj['axis'].applyMovement([2,0,0], True)
+
+        if keyboard.inputs[bge.events.WKEY].active:
+             obj['axis'].applyMovement([0,1,0], True)
+        
 
     def play(self):        
         planet = obj['planet']
@@ -24,4 +39,5 @@ class MyGame():
         obj['axis'].alignAxisToVect(direcao, 0)
         
 def run():
+    MyGame().controls()
     MyGame().play()
